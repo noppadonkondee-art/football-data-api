@@ -5,15 +5,15 @@
       "round": "Matchday 21",
       "date": "2026-02-07",
       "time": "21:30",
-      "team1": "Borussia Mönchengladbach",
-      "team2": "Bayer 04 Leverkusen",
+      "team1": "Monchengladbach",
+      "team2": "Bayer Leverkusen",
       "score": {}
     },
     {
       "round": "Matchday 21",
       "date": "2026-02-07",
       "time": "21:30",
-      "team1": "1. FC Union Berlin",
+      "team1": "Union Berlin",
       "team2": "Eintracht Frankfurt",
       "score": {}
     },
@@ -21,15 +21,15 @@
       "round": "Matchday 21",
       "date": "2026-02-07",
       "time": "21:30",
-      "team1": "VfL Wolfsburg",
-      "team2": "Borussia Dortmund",
+      "team1": "Wolfsburg",
+      "team2": "Dortmund",
       "score": {}
     },
     {
       "round": "Matchday 21",
       "date": "2026-02-07",
       "time": "00:30",
-      "team1": "1. FC Köln",
+      "team1": "Cologne",
       "team2": "RB Leipzig",
       "score": {}
     },
@@ -37,64 +37,64 @@
       "round": "Matchday 21",
       "date": "2026-02-07",
       "time": "21:30",
-      "team1": "SC Freiburg",
-      "team2": "SV Werder Bremen",
+      "team1": "Freiburg",
+      "team2": "Werder Bremen",
       "score": {}
     },
     {
       "round": "Matchday 21",
       "date": "2026-02-07",
       "time": "21:30",
-      "team1": "FC St. Pauli 1910",
-      "team2": "VfB Stuttgart",
+      "team1": "St Pauli",
+      "team2": "Stuttgart",
       "score": {}
     },
     {
       "round": "Matchday 21",
       "date": "2026-02-07",
       "time": "21:30",
-      "team1": "1. FSV Mainz 05",
-      "team2": "FC Augsburg",
+      "team1": "Mainz",
+      "team2": "Augsburg",
       "score": {}
     },
     {
       "round": "Matchday 21",
       "date": "2026-02-07",
       "time": "00:30",
-      "team1": "FC Bayern München",
-      "team2": "TSG 1899 Hoffenheim",
+      "team1": "Bayern Munich",
+      "team2": "Hoffenheim",
       "score": {}
     },
     {
       "round": "Matchday 21",
       "date": "2026-02-07",
       "time": "21:30",
-      "team1": "1. FC Heidenheim 1846",
-      "team2": "Hamburger SV",
+      "team1": "Heidenheim",
+      "team2": "Hamburg",
       "score": {}
     },
     {
       "round": "Matchday 22",
       "date": "2026-02-14",
       "time": "00:30",
-      "team1": "SV Werder Bremen",
-      "team2": "FC Bayern München",
+      "team1": "Werder Bremen",
+      "team2": "Bayern Munich",
       "score": {}
     },
     {
       "round": "Matchday 22",
       "date": "2026-02-14",
       "time": "21:30",
-      "team1": "TSG 1899 Hoffenheim",
-      "team2": "SC Freiburg",
+      "team1": "Hoffenheim",
+      "team2": "Freiburg",
       "score": {}
     },
     {
       "round": "Matchday 22",
       "date": "2026-02-14",
       "time": "21:30",
-      "team1": "Borussia Dortmund",
-      "team2": "1. FSV Mainz 05",
+      "team1": "Dortmund",
+      "team2": "Mainz",
       "score": {}
     },
     {
@@ -102,7 +102,7 @@
       "date": "2026-02-14",
       "time": "21:30",
       "team1": "Eintracht Frankfurt",
-      "team2": "Borussia Mönchengladbach",
+      "team2": "Monchengladbach",
       "score": {}
     },
     {
@@ -110,54 +110,54 @@
       "date": "2026-02-14",
       "time": "21:30",
       "team1": "RB Leipzig",
-      "team2": "VfL Wolfsburg",
+      "team2": "Wolfsburg",
       "score": {}
     },
     {
       "round": "Matchday 22",
       "date": "2026-02-14",
       "time": "21:30",
-      "team1": "Hamburger SV",
-      "team2": "1. FC Union Berlin",
+      "team1": "Hamburg",
+      "team2": "Union Berlin",
       "score": {}
     },
     {
       "round": "Matchday 22",
       "date": "2026-02-14",
       "time": "21:30",
-      "team1": "Bayer 04 Leverkusen",
-      "team2": "FC St. Pauli 1910",
+      "team1": "Bayer Leverkusen",
+      "team2": "St Pauli",
       "score": {}
     },
     {
       "round": "Matchday 22",
       "date": "2026-02-14",
       "time": "21:30",
-      "team1": "FC Augsburg",
-      "team2": "1. FC Heidenheim 1846",
+      "team1": "Augsburg",
+      "team2": "Heidenheim",
       "score": {}
     },
     {
       "round": "Matchday 22",
       "date": "2026-02-14",
       "time": "21:30",
-      "team1": "VfB Stuttgart",
-      "team2": "1. FC Köln",
+      "team1": "Stuttgart",
+      "team2": "Cologne",
       "score": {}
     },
     {
       "round": "Matchday 23",
       "date": "2026-02-21",
       "time": "21:30",
-      "team1": "1. FC Union Berlin",
-      "team2": "Bayer 04 Leverkusen",
+      "team1": "Union Berlin",
+      "team2": "Bayer Leverkusen",
       "score": {}
     },
     {
       "round": "Matchday 23",
       "date": "2026-02-21",
       "time": "00:30",
-      "team1": "FC Bayern München",
+      "team1": "Bayern Munich",
       "team2": "Eintracht Frankfurt",
       "score": {}
     },
@@ -166,63 +166,63 @@
       "date": "2026-02-21",
       "time": "21:30",
       "team1": "RB Leipzig",
-      "team2": "Borussia Dortmund",
+      "team2": "Dortmund",
       "score": {}
     },
     {
       "round": "Matchday 23",
       "date": "2026-02-21",
       "time": "21:30",
-      "team1": "FC St. Pauli 1910",
-      "team2": "SV Werder Bremen",
+      "team1": "St Pauli",
+      "team2": "Werder Bremen",
       "score": {}
     },
     {
       "round": "Matchday 23",
       "date": "2026-02-21",
       "time": "21:30",
-      "team1": "1. FC Heidenheim 1846",
-      "team2": "VfB Stuttgart",
+      "team1": "Heidenheim",
+      "team2": "Stuttgart",
       "score": {}
     },
     {
       "round": "Matchday 23",
       "date": "2026-02-21",
       "time": "21:30",
-      "team1": "SC Freiburg",
-      "team2": "Borussia Mönchengladbach",
+      "team1": "Freiburg",
+      "team2": "Monchengladbach",
       "score": {}
     },
     {
       "round": "Matchday 23",
       "date": "2026-02-21",
       "time": "21:30",
-      "team1": "VfL Wolfsburg",
-      "team2": "FC Augsburg",
+      "team1": "Wolfsburg",
+      "team2": "Augsburg",
       "score": {}
     },
     {
       "round": "Matchday 23",
       "date": "2026-02-21",
       "time": "21:30",
-      "team1": "1. FC Köln",
-      "team2": "TSG 1899 Hoffenheim",
+      "team1": "Cologne",
+      "team2": "Hoffenheim",
       "score": {}
     },
     {
       "round": "Matchday 23",
       "date": "2026-02-21",
       "time": "21:30",
-      "team1": "1. FSV Mainz 05",
-      "team2": "Hamburger SV",
+      "team1": "Mainz",
+      "team2": "Hamburg",
       "score": {}
     },
     {
       "round": "Matchday 24",
       "date": "2026-02-28",
       "time": "00:30",
-      "team1": "Borussia Dortmund",
-      "team2": "FC Bayern München",
+      "team1": "Dortmund",
+      "team2": "Bayern Munich",
       "score": {}
     },
     {
@@ -230,22 +230,22 @@
       "date": "2026-02-28",
       "time": "21:30",
       "team1": "Eintracht Frankfurt",
-      "team2": "SC Freiburg",
+      "team2": "Freiburg",
       "score": {}
     },
     {
       "round": "Matchday 24",
       "date": "2026-02-28",
       "time": "21:30",
-      "team1": "Bayer 04 Leverkusen",
-      "team2": "1. FSV Mainz 05",
+      "team1": "Bayer Leverkusen",
+      "team2": "Mainz",
       "score": {}
     },
     {
       "round": "Matchday 24",
       "date": "2026-02-28",
       "time": "21:30",
-      "team1": "Hamburger SV",
+      "team1": "Hamburg",
       "team2": "RB Leipzig",
       "score": {}
     },
@@ -253,55 +253,55 @@
       "round": "Matchday 24",
       "date": "2026-02-28",
       "time": "21:30",
-      "team1": "VfB Stuttgart",
-      "team2": "VfL Wolfsburg",
+      "team1": "Stuttgart",
+      "team2": "Wolfsburg",
       "score": {}
     },
     {
       "round": "Matchday 24",
       "date": "2026-02-28",
       "time": "21:30",
-      "team1": "Borussia Mönchengladbach",
-      "team2": "1. FC Union Berlin",
+      "team1": "Monchengladbach",
+      "team2": "Union Berlin",
       "score": {}
     },
     {
       "round": "Matchday 24",
       "date": "2026-02-28",
       "time": "21:30",
-      "team1": "TSG 1899 Hoffenheim",
-      "team2": "FC St. Pauli 1910",
+      "team1": "Hoffenheim",
+      "team2": "St Pauli",
       "score": {}
     },
     {
       "round": "Matchday 24",
       "date": "2026-02-28",
       "time": "21:30",
-      "team1": "SV Werder Bremen",
-      "team2": "1. FC Heidenheim 1846",
+      "team1": "Werder Bremen",
+      "team2": "Heidenheim",
       "score": {}
     },
     {
       "round": "Matchday 24",
       "date": "2026-02-28",
       "time": "21:30",
-      "team1": "FC Augsburg",
-      "team2": "1. FC Köln",
+      "team1": "Augsburg",
+      "team2": "Cologne",
       "score": {}
     },
     {
       "round": "Matchday 25",
       "date": "2026-03-07",
       "time": "21:30",
-      "team1": "SC Freiburg",
-      "team2": "Bayer 04 Leverkusen",
+      "team1": "Freiburg",
+      "team2": "Bayer Leverkusen",
       "score": {}
     },
     {
       "round": "Matchday 25",
       "date": "2026-03-07",
       "time": "21:30",
-      "team1": "FC St. Pauli 1910",
+      "team1": "St Pauli",
       "team2": "Eintracht Frankfurt",
       "score": {}
     },
@@ -309,32 +309,32 @@
       "round": "Matchday 25",
       "date": "2026-03-07",
       "time": "00:30",
-      "team1": "1. FC Köln",
-      "team2": "Borussia Dortmund",
+      "team1": "Cologne",
+      "team2": "Dortmund",
       "score": {}
     },
     {
       "round": "Matchday 25",
       "date": "2026-03-07",
       "time": "21:30",
-      "team1": "1. FC Union Berlin",
-      "team2": "SV Werder Bremen",
+      "team1": "Union Berlin",
+      "team2": "Werder Bremen",
       "score": {}
     },
     {
       "round": "Matchday 25",
       "date": "2026-03-07",
       "time": "21:30",
-      "team1": "1. FSV Mainz 05",
-      "team2": "VfB Stuttgart",
+      "team1": "Mainz",
+      "team2": "Stuttgart",
       "score": {}
     },
     {
       "round": "Matchday 25",
       "date": "2026-03-07",
       "time": "21:30",
-      "team1": "FC Bayern München",
-      "team2": "Borussia Mönchengladbach",
+      "team1": "Bayern Munich",
+      "team2": "Monchengladbach",
       "score": {}
     },
     {
@@ -342,46 +342,46 @@
       "date": "2026-03-07",
       "time": "21:30",
       "team1": "RB Leipzig",
-      "team2": "FC Augsburg",
+      "team2": "Augsburg",
       "score": {}
     },
     {
       "round": "Matchday 25",
       "date": "2026-03-07",
       "time": "21:30",
-      "team1": "1. FC Heidenheim 1846",
-      "team2": "TSG 1899 Hoffenheim",
+      "team1": "Heidenheim",
+      "team2": "Hoffenheim",
       "score": {}
     },
     {
       "round": "Matchday 25",
       "date": "2026-03-07",
       "time": "21:30",
-      "team1": "VfL Wolfsburg",
-      "team2": "Hamburger SV",
+      "team1": "Wolfsburg",
+      "team2": "Hamburg",
       "score": {}
     },
     {
       "round": "Matchday 26",
       "date": "2026-03-14",
       "time": "00:30",
-      "team1": "Bayer 04 Leverkusen",
-      "team2": "FC Bayern München",
+      "team1": "Bayer Leverkusen",
+      "team2": "Bayern Munich",
       "score": {}
     },
     {
       "round": "Matchday 26",
       "date": "2026-03-14",
       "time": "21:30",
-      "team1": "SV Werder Bremen",
-      "team2": "1. FSV Mainz 05",
+      "team1": "Werder Bremen",
+      "team2": "Mainz",
       "score": {}
     },
     {
       "round": "Matchday 26",
       "date": "2026-03-14",
       "time": "21:30",
-      "team1": "VfB Stuttgart",
+      "team1": "Stuttgart",
       "team2": "RB Leipzig",
       "score": {}
     },
@@ -389,32 +389,32 @@
       "round": "Matchday 26",
       "date": "2026-03-14",
       "time": "21:30",
-      "team1": "TSG 1899 Hoffenheim",
-      "team2": "VfL Wolfsburg",
+      "team1": "Hoffenheim",
+      "team2": "Wolfsburg",
       "score": {}
     },
     {
       "round": "Matchday 26",
       "date": "2026-03-14",
       "time": "21:30",
-      "team1": "Borussia Dortmund",
-      "team2": "FC Augsburg",
+      "team1": "Dortmund",
+      "team2": "Augsburg",
       "score": {}
     },
     {
       "round": "Matchday 26",
       "date": "2026-03-14",
       "time": "21:30",
-      "team1": "SC Freiburg",
-      "team2": "1. FC Union Berlin",
+      "team1": "Freiburg",
+      "team2": "Union Berlin",
       "score": {}
     },
     {
       "round": "Matchday 26",
       "date": "2026-03-14",
       "time": "21:30",
-      "team1": "Borussia Mönchengladbach",
-      "team2": "FC St. Pauli 1910",
+      "team1": "Monchengladbach",
+      "team2": "St Pauli",
       "score": {}
     },
     {
@@ -422,30 +422,30 @@
       "date": "2026-03-14",
       "time": "21:30",
       "team1": "Eintracht Frankfurt",
-      "team2": "1. FC Heidenheim 1846",
+      "team2": "Heidenheim",
       "score": {}
     },
     {
       "round": "Matchday 26",
       "date": "2026-03-14",
       "time": "21:30",
-      "team1": "Hamburger SV",
-      "team2": "1. FC Köln",
+      "team1": "Hamburg",
+      "team2": "Cologne",
       "score": {}
     },
     {
       "round": "Matchday 27",
       "date": "2026-03-21",
       "time": "21:30",
-      "team1": "1. FC Heidenheim 1846",
-      "team2": "Bayer 04 Leverkusen",
+      "team1": "Heidenheim",
+      "team2": "Bayer Leverkusen",
       "score": {}
     },
     {
       "round": "Matchday 27",
       "date": "2026-03-21",
       "time": "21:30",
-      "team1": "1. FSV Mainz 05",
+      "team1": "Mainz",
       "team2": "Eintracht Frankfurt",
       "score": {}
     },
@@ -453,40 +453,40 @@
       "round": "Matchday 27",
       "date": "2026-03-21",
       "time": "21:30",
-      "team1": "FC St. Pauli 1910",
-      "team2": "SC Freiburg",
+      "team1": "St Pauli",
+      "team2": "Freiburg",
       "score": {}
     },
     {
       "round": "Matchday 27",
       "date": "2026-03-21",
       "time": "21:30",
-      "team1": "VfL Wolfsburg",
-      "team2": "SV Werder Bremen",
+      "team1": "Wolfsburg",
+      "team2": "Werder Bremen",
       "score": {}
     },
     {
       "round": "Matchday 27",
       "date": "2026-03-21",
       "time": "21:30",
-      "team1": "FC Augsburg",
-      "team2": "VfB Stuttgart",
+      "team1": "Augsburg",
+      "team2": "Stuttgart",
       "score": {}
     },
     {
       "round": "Matchday 27",
       "date": "2026-03-21",
       "time": "00:30",
-      "team1": "1. FC Köln",
-      "team2": "Borussia Mönchengladbach",
+      "team1": "Cologne",
+      "team2": "Monchengladbach",
       "score": {}
     },
     {
       "round": "Matchday 27",
       "date": "2026-03-21",
       "time": "21:30",
-      "team1": "FC Bayern München",
-      "team2": "1. FC Union Berlin",
+      "team1": "Bayern Munich",
+      "team2": "Union Berlin",
       "score": {}
     },
     {
@@ -494,46 +494,46 @@
       "date": "2026-03-21",
       "time": "21:30",
       "team1": "RB Leipzig",
-      "team2": "TSG 1899 Hoffenheim",
+      "team2": "Hoffenheim",
       "score": {}
     },
     {
       "round": "Matchday 27",
       "date": "2026-03-21",
       "time": "21:30",
-      "team1": "Borussia Dortmund",
-      "team2": "Hamburger SV",
+      "team1": "Dortmund",
+      "team2": "Hamburg",
       "score": {}
     },
     {
       "round": "Matchday 28",
       "date": "2026-04-05",
       "time": "20:30",
-      "team1": "SC Freiburg",
-      "team2": "FC Bayern München",
+      "team1": "Freiburg",
+      "team2": "Bayern Munich",
       "score": {}
     },
     {
       "round": "Matchday 28",
       "date": "2026-04-05",
       "time": "20:30",
-      "team1": "VfB Stuttgart",
-      "team2": "Borussia Dortmund",
+      "team1": "Stuttgart",
+      "team2": "Dortmund",
       "score": {}
     },
     {
       "round": "Matchday 28",
       "date": "2026-04-05",
       "time": "22:30",
-      "team1": "TSG 1899 Hoffenheim",
-      "team2": "1. FSV Mainz 05",
+      "team1": "Hoffenheim",
+      "team2": "Mainz",
       "score": {}
     },
     {
       "round": "Matchday 28",
       "date": "2026-04-05",
       "time": "22:30",
-      "team1": "SV Werder Bremen",
+      "team1": "Werder Bremen",
       "team2": "RB Leipzig",
       "score": {}
     },
@@ -541,32 +541,32 @@
       "round": "Matchday 28",
       "date": "2026-04-05",
       "time": "20:30",
-      "team1": "Bayer 04 Leverkusen",
-      "team2": "VfL Wolfsburg",
+      "team1": "Bayer Leverkusen",
+      "team2": "Wolfsburg",
       "score": {}
     },
     {
       "round": "Matchday 28",
       "date": "2026-04-05",
       "time": "20:30",
-      "team1": "Hamburger SV",
-      "team2": "FC Augsburg",
+      "team1": "Hamburg",
+      "team2": "Augsburg",
       "score": {}
     },
     {
       "round": "Matchday 28",
       "date": "2026-04-05",
       "time": "22:30",
-      "team1": "1. FC Union Berlin",
-      "team2": "FC St. Pauli 1910",
+      "team1": "Union Berlin",
+      "team2": "St Pauli",
       "score": {}
     },
     {
       "round": "Matchday 28",
       "date": "2026-04-05",
       "time": "20:30",
-      "team1": "Borussia Mönchengladbach",
-      "team2": "1. FC Heidenheim 1846",
+      "team1": "Monchengladbach",
+      "team2": "Heidenheim",
       "score": {}
     },
     {
@@ -574,30 +574,30 @@
       "date": "2026-04-05",
       "time": "20:30",
       "team1": "Eintracht Frankfurt",
-      "team2": "1. FC Köln",
+      "team2": "Cologne",
       "score": {}
     },
     {
       "round": "Matchday 29",
       "date": "2026-04-11",
       "time": "20:30",
-      "team1": "FC St. Pauli 1910",
-      "team2": "FC Bayern München",
+      "team1": "St Pauli",
+      "team2": "Bayern Munich",
       "score": {}
     },
     {
       "round": "Matchday 29",
       "date": "2026-04-11",
       "time": "23:30",
-      "team1": "Borussia Dortmund",
-      "team2": "Bayer 04 Leverkusen",
+      "team1": "Dortmund",
+      "team2": "Bayer Leverkusen",
       "score": {}
     },
     {
       "round": "Matchday 29",
       "date": "2026-04-11",
       "time": "20:30",
-      "team1": "VfL Wolfsburg",
+      "team1": "Wolfsburg",
       "team2": "Eintracht Frankfurt",
       "score": {}
     },
@@ -605,16 +605,16 @@
       "round": "Matchday 29",
       "date": "2026-04-11",
       "time": "20:30",
-      "team1": "1. FSV Mainz 05",
-      "team2": "SC Freiburg",
+      "team1": "Mainz",
+      "team2": "Freiburg",
       "score": {}
     },
     {
       "round": "Matchday 29",
       "date": "2026-04-11",
       "time": "20:30",
-      "team1": "1. FC Köln",
-      "team2": "SV Werder Bremen",
+      "team1": "Cologne",
+      "team2": "Werder Bremen",
       "score": {}
     },
     {
@@ -622,79 +622,79 @@
       "date": "2026-04-11",
       "time": "20:30",
       "team1": "RB Leipzig",
-      "team2": "Borussia Mönchengladbach",
+      "team2": "Monchengladbach",
       "score": {}
     },
     {
       "round": "Matchday 29",
       "date": "2026-04-11",
       "time": "20:30",
-      "team1": "1. FC Heidenheim 1846",
-      "team2": "1. FC Union Berlin",
+      "team1": "Heidenheim",
+      "team2": "Union Berlin",
       "score": {}
     },
     {
       "round": "Matchday 29",
       "date": "2026-04-11",
       "time": "20:30",
-      "team1": "FC Augsburg",
-      "team2": "TSG 1899 Hoffenheim",
+      "team1": "Augsburg",
+      "team2": "Hoffenheim",
       "score": {}
     },
     {
       "round": "Matchday 29",
       "date": "2026-04-11",
       "time": "20:30",
-      "team1": "VfB Stuttgart",
-      "team2": "Hamburger SV",
+      "team1": "Stuttgart",
+      "team2": "Hamburg",
       "score": {}
     },
     {
       "round": "Matchday 30",
       "date": "2026-04-18",
       "time": "20:30",
-      "team1": "SC Freiburg",
-      "team2": "1. FC Heidenheim 1846",
+      "team1": "Freiburg",
+      "team2": "Heidenheim",
       "score": {}
     },
     {
       "round": "Matchday 30",
       "date": "2026-04-18",
       "time": "20:30",
-      "team1": "FC St. Pauli 1910",
-      "team2": "1. FC Köln",
+      "team1": "St Pauli",
+      "team2": "Cologne",
       "score": {}
     },
     {
       "round": "Matchday 30",
       "date": "2026-04-18",
       "time": "20:30",
-      "team1": "SV Werder Bremen",
-      "team2": "Hamburger SV",
+      "team1": "Werder Bremen",
+      "team2": "Hamburg",
       "score": {}
     },
     {
       "round": "Matchday 30",
       "date": "2026-04-18",
       "time": "20:30",
-      "team1": "Bayer 04 Leverkusen",
-      "team2": "FC Augsburg",
+      "team1": "Bayer Leverkusen",
+      "team2": "Augsburg",
       "score": {}
     },
     {
       "round": "Matchday 30",
       "date": "2026-04-18",
       "time": "23:30",
-      "team1": "TSG 1899 Hoffenheim",
-      "team2": "Borussia Dortmund",
+      "team1": "Hoffenheim",
+      "team2": "Dortmund",
       "score": {}
     },
     {
       "round": "Matchday 30",
       "date": "2026-04-18",
       "time": "20:30",
-      "team1": "Borussia Mönchengladbach",
-      "team2": "1. FSV Mainz 05",
+      "team1": "Monchengladbach",
+      "team2": "Mainz",
       "score": {}
     },
     {
@@ -709,39 +709,39 @@
       "round": "Matchday 30",
       "date": "2026-04-18",
       "time": "23:30",
-      "team1": "FC Bayern München",
-      "team2": "VfB Stuttgart",
+      "team1": "Bayern Munich",
+      "team2": "Stuttgart",
       "score": {}
     },
     {
       "round": "Matchday 30",
       "date": "2026-04-18",
       "time": "20:30",
-      "team1": "1. FC Union Berlin",
-      "team2": "VfL Wolfsburg",
+      "team1": "Union Berlin",
+      "team2": "Wolfsburg",
       "score": {}
     },
     {
       "round": "Matchday 31",
       "date": "2026-04-25",
       "time": "23:30",
-      "team1": "1. FSV Mainz 05",
-      "team2": "FC Bayern München",
+      "team1": "Mainz",
+      "team2": "Bayern Munich",
       "score": {}
     },
     {
       "round": "Matchday 31",
       "date": "2026-04-25",
       "time": "20:30",
-      "team1": "1. FC Köln",
-      "team2": "Bayer 04 Leverkusen",
+      "team1": "Cologne",
+      "team2": "Bayer Leverkusen",
       "score": {}
     },
     {
       "round": "Matchday 31",
       "date": "2026-04-25",
       "time": "20:30",
-      "team1": "FC Augsburg",
+      "team1": "Augsburg",
       "team2": "Eintracht Frankfurt",
       "score": {}
     },
@@ -749,24 +749,24 @@
       "round": "Matchday 31",
       "date": "2026-04-25",
       "time": "20:30",
-      "team1": "Borussia Dortmund",
-      "team2": "SC Freiburg",
+      "team1": "Dortmund",
+      "team2": "Freiburg",
       "score": {}
     },
     {
       "round": "Matchday 31",
       "date": "2026-04-25",
       "time": "20:30",
-      "team1": "VfB Stuttgart",
-      "team2": "SV Werder Bremen",
+      "team1": "Stuttgart",
+      "team2": "Werder Bremen",
       "score": {}
     },
     {
       "round": "Matchday 31",
       "date": "2026-04-25",
       "time": "20:30",
-      "team1": "VfL Wolfsburg",
-      "team2": "Borussia Mönchengladbach",
+      "team1": "Wolfsburg",
+      "team2": "Monchengladbach",
       "score": {}
     },
     {
@@ -774,46 +774,46 @@
       "date": "2026-04-25",
       "time": "20:30",
       "team1": "RB Leipzig",
-      "team2": "1. FC Union Berlin",
+      "team2": "Union Berlin",
       "score": {}
     },
     {
       "round": "Matchday 31",
       "date": "2026-04-25",
       "time": "20:30",
-      "team1": "1. FC Heidenheim 1846",
-      "team2": "FC St. Pauli 1910",
+      "team1": "Heidenheim",
+      "team2": "St Pauli",
       "score": {}
     },
     {
       "round": "Matchday 31",
       "date": "2026-04-25",
       "time": "20:30",
-      "team1": "Hamburger SV",
-      "team2": "TSG 1899 Hoffenheim",
+      "team1": "Hamburg",
+      "team2": "Hoffenheim",
       "score": {}
     },
     {
       "round": "Matchday 32",
       "date": "2026-05-03",
       "time": "20:30",
-      "team1": "Borussia Mönchengladbach",
-      "team2": "Borussia Dortmund",
+      "team1": "Monchengladbach",
+      "team2": "Dortmund",
       "score": {}
     },
     {
       "round": "Matchday 32",
       "date": "2026-05-03",
       "time": "20:30",
-      "team1": "FC St. Pauli 1910",
-      "team2": "1. FSV Mainz 05",
+      "team1": "St Pauli",
+      "team2": "Mainz",
       "score": {}
     },
     {
       "round": "Matchday 32",
       "date": "2026-05-03",
       "time": "22:30",
-      "team1": "Bayer 04 Leverkusen",
+      "team1": "Bayer Leverkusen",
       "team2": "RB Leipzig",
       "score": {}
     },
@@ -821,40 +821,40 @@
       "round": "Matchday 32",
       "date": "2026-05-03",
       "time": "22:30",
-      "team1": "TSG 1899 Hoffenheim",
-      "team2": "VfB Stuttgart",
+      "team1": "Hoffenheim",
+      "team2": "Stuttgart",
       "score": {}
     },
     {
       "round": "Matchday 32",
       "date": "2026-05-03",
       "time": "20:30",
-      "team1": "SC Freiburg",
-      "team2": "VfL Wolfsburg",
+      "team1": "Freiburg",
+      "team2": "Wolfsburg",
       "score": {}
     },
     {
       "round": "Matchday 32",
       "date": "2026-05-03",
       "time": "20:30",
-      "team1": "SV Werder Bremen",
-      "team2": "FC Augsburg",
+      "team1": "Werder Bremen",
+      "team2": "Augsburg",
       "score": {}
     },
     {
       "round": "Matchday 32",
       "date": "2026-05-03",
       "time": "20:30",
-      "team1": "FC Bayern München",
-      "team2": "1. FC Heidenheim 1846",
+      "team1": "Bayern Munich",
+      "team2": "Heidenheim",
       "score": {}
     },
     {
       "round": "Matchday 32",
       "date": "2026-05-03",
       "time": "22:30",
-      "team1": "1. FC Union Berlin",
-      "team2": "1. FC Köln",
+      "team1": "Union Berlin",
+      "team2": "Cologne",
       "score": {}
     },
     {
@@ -862,30 +862,30 @@
       "date": "2026-05-03",
       "time": "20:30",
       "team1": "Eintracht Frankfurt",
-      "team2": "Hamburger SV",
+      "team2": "Hamburg",
       "score": {}
     },
     {
       "round": "Matchday 33",
       "date": "2026-05-09",
       "time": "20:30",
-      "team1": "VfL Wolfsburg",
-      "team2": "FC Bayern München",
+      "team1": "Wolfsburg",
+      "team2": "Bayern Munich",
       "score": {}
     },
     {
       "round": "Matchday 33",
       "date": "2026-05-09",
       "time": "23:30",
-      "team1": "VfB Stuttgart",
-      "team2": "Bayer 04 Leverkusen",
+      "team1": "Stuttgart",
+      "team2": "Bayer Leverkusen",
       "score": {}
     },
     {
       "round": "Matchday 33",
       "date": "2026-05-09",
       "time": "20:30",
-      "team1": "Borussia Dortmund",
+      "team1": "Dortmund",
       "team2": "Eintracht Frankfurt",
       "score": {}
     },
@@ -893,32 +893,32 @@
       "round": "Matchday 33",
       "date": "2026-05-09",
       "time": "20:30",
-      "team1": "Hamburger SV",
-      "team2": "SC Freiburg",
+      "team1": "Hamburg",
+      "team2": "Freiburg",
       "score": {}
     },
     {
       "round": "Matchday 33",
       "date": "2026-05-09",
       "time": "20:30",
-      "team1": "TSG 1899 Hoffenheim",
-      "team2": "SV Werder Bremen",
+      "team1": "Hoffenheim",
+      "team2": "Werder Bremen",
       "score": {}
     },
     {
       "round": "Matchday 33",
       "date": "2026-05-09",
       "time": "20:30",
-      "team1": "FC Augsburg",
-      "team2": "Borussia Mönchengladbach",
+      "team1": "Augsburg",
+      "team2": "Monchengladbach",
       "score": {}
     },
     {
       "round": "Matchday 33",
       "date": "2026-05-09",
       "time": "20:30",
-      "team1": "1. FSV Mainz 05",
-      "team2": "1. FC Union Berlin",
+      "team1": "Mainz",
+      "team2": "Union Berlin",
       "score": {}
     },
     {
@@ -926,38 +926,38 @@
       "date": "2026-05-09",
       "time": "20:30",
       "team1": "RB Leipzig",
-      "team2": "FC St. Pauli 1910",
+      "team2": "St Pauli",
       "score": {}
     },
     {
       "round": "Matchday 33",
       "date": "2026-05-09",
       "time": "20:30",
-      "team1": "1. FC Köln",
-      "team2": "1. FC Heidenheim 1846",
+      "team1": "Cologne",
+      "team2": "Heidenheim",
       "score": {}
     },
     {
       "round": "Matchday 34",
       "date": "2026-05-16",
       "time": "20:30",
-      "team1": "SV Werder Bremen",
-      "team2": "Borussia Dortmund",
+      "team1": "Werder Bremen",
+      "team2": "Dortmund",
       "score": {}
     },
     {
       "round": "Matchday 34",
       "date": "2026-05-16",
       "time": "20:30",
-      "team1": "1. FC Heidenheim 1846",
-      "team2": "1. FSV Mainz 05",
+      "team1": "Heidenheim",
+      "team2": "Mainz",
       "score": {}
     },
     {
       "round": "Matchday 34",
       "date": "2026-05-16",
       "time": "20:30",
-      "team1": "SC Freiburg",
+      "team1": "Freiburg",
       "team2": "RB Leipzig",
       "score": {}
     },
@@ -966,47 +966,47 @@
       "date": "2026-05-16",
       "time": "20:30",
       "team1": "Eintracht Frankfurt",
-      "team2": "VfB Stuttgart",
+      "team2": "Stuttgart",
       "score": {}
     },
     {
       "round": "Matchday 34",
       "date": "2026-05-16",
       "time": "20:30",
-      "team1": "FC St. Pauli 1910",
-      "team2": "VfL Wolfsburg",
+      "team1": "St Pauli",
+      "team2": "Wolfsburg",
       "score": {}
     },
     {
       "round": "Matchday 34",
       "date": "2026-05-16",
       "time": "20:30",
-      "team1": "1. FC Union Berlin",
-      "team2": "FC Augsburg",
+      "team1": "Union Berlin",
+      "team2": "Augsburg",
       "score": {}
     },
     {
       "round": "Matchday 34",
       "date": "2026-05-16",
       "time": "20:30",
-      "team1": "Borussia Mönchengladbach",
-      "team2": "TSG 1899 Hoffenheim",
+      "team1": "Monchengladbach",
+      "team2": "Hoffenheim",
       "score": {}
     },
     {
       "round": "Matchday 34",
       "date": "2026-05-16",
       "time": "20:30",
-      "team1": "FC Bayern München",
-      "team2": "1. FC Köln",
+      "team1": "Bayern Munich",
+      "team2": "Cologne",
       "score": {}
     },
     {
       "round": "Matchday 34",
       "date": "2026-05-16",
       "time": "20:30",
-      "team1": "Bayer 04 Leverkusen",
-      "team2": "Hamburger SV",
+      "team1": "Bayer Leverkusen",
+      "team2": "Hamburg",
       "score": {}
     }
   ]
