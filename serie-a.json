@@ -1,0 +1,1285 @@
+{
+  "name": "Italian Serie A 2025/26",
+  "matches": [
+    {
+      "round": "Matchday 23",
+      "date": "2026-02-01",
+      "time": "18:30",
+      "team1": "Cagliari Calcio",
+      "team2": "Hellas Verona FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2026-02-01",
+      "time": "21:00",
+      "team1": "Como 1907",
+      "team2": "Atalanta BC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2026-02-01",
+      "time": "00:00",
+      "team1": "Bologna FC 1909",
+      "team2": "AC Milan",
+      "score": {}
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2026-02-01",
+      "time": "21:00",
+      "team1": "Torino FC",
+      "team2": "US Lecce",
+      "score": {}
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2026-02-01",
+      "time": "21:00",
+      "team1": "SS Lazio",
+      "team2": "Genoa CFC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2026-02-01",
+      "time": "00:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Juventus FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2026-02-01",
+      "time": "21:00",
+      "team1": "AC Pisa 1909",
+      "team2": "US Sassuolo Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2026-02-01",
+      "time": "02:45",
+      "team1": "SSC Napoli",
+      "team2": "ACF Fiorentina",
+      "score": {}
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2026-02-01",
+      "time": "00:00",
+      "team1": "Udinese Calcio",
+      "team2": "AS Roma",
+      "score": {}
+    },
+    {
+      "round": "Matchday 23",
+      "date": "2026-02-01",
+      "time": "02:45",
+      "team1": "US Cremonese",
+      "team2": "FC Internazionale Milano",
+      "score": {}
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2026-02-08",
+      "time": "21:00",
+      "team1": "ACF Fiorentina",
+      "team2": "Torino FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2026-02-08",
+      "time": "21:00",
+      "team1": "AC Milan",
+      "team2": "Como 1907",
+      "score": {}
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2026-02-08",
+      "time": "00:00",
+      "team1": "AS Roma",
+      "team2": "Cagliari Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2026-02-08",
+      "time": "21:00",
+      "team1": "Atalanta BC",
+      "team2": "US Cremonese",
+      "score": {}
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2026-02-08",
+      "time": "02:45",
+      "team1": "Genoa CFC",
+      "team2": "SSC Napoli",
+      "score": {}
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2026-02-08",
+      "time": "21:00",
+      "team1": "Bologna FC 1909",
+      "team2": "Parma Calcio 1913",
+      "score": {}
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2026-02-08",
+      "time": "18:30",
+      "team1": "Hellas Verona FC",
+      "team2": "AC Pisa 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2026-02-08",
+      "time": "02:45",
+      "team1": "Juventus FC",
+      "team2": "SS Lazio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2026-02-08",
+      "time": "00:00",
+      "team1": "US Sassuolo Calcio",
+      "team2": "FC Internazionale Milano",
+      "score": {}
+    },
+    {
+      "round": "Matchday 24",
+      "date": "2026-02-08",
+      "time": "21:00",
+      "team1": "US Lecce",
+      "team2": "Udinese Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2026-02-15",
+      "time": "21:00",
+      "team1": "Cagliari Calcio",
+      "team2": "US Lecce",
+      "score": {}
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2026-02-15",
+      "time": "21:00",
+      "team1": "Como 1907",
+      "team2": "ACF Fiorentina",
+      "score": {}
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2026-02-15",
+      "time": "21:00",
+      "team1": "Torino FC",
+      "team2": "Bologna FC 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2026-02-15",
+      "time": "02:45",
+      "team1": "FC Internazionale Milano",
+      "team2": "Juventus FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2026-02-15",
+      "time": "00:00",
+      "team1": "SS Lazio",
+      "team2": "Atalanta BC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2026-02-15",
+      "time": "21:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Hellas Verona FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2026-02-15",
+      "time": "18:30",
+      "team1": "AC Pisa 1909",
+      "team2": "AC Milan",
+      "score": {}
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2026-02-15",
+      "time": "02:45",
+      "team1": "SSC Napoli",
+      "team2": "AS Roma",
+      "score": {}
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2026-02-15",
+      "time": "21:00",
+      "team1": "Udinese Calcio",
+      "team2": "US Sassuolo Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 25",
+      "date": "2026-02-15",
+      "time": "00:00",
+      "team1": "US Cremonese",
+      "team2": "Genoa CFC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2026-02-22",
+      "time": "21:00",
+      "team1": "ACF Fiorentina",
+      "team2": "AC Pisa 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2026-02-22",
+      "time": "21:00",
+      "team1": "AC Milan",
+      "team2": "Parma Calcio 1913",
+      "score": {}
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2026-02-22",
+      "time": "02:45",
+      "team1": "AS Roma",
+      "team2": "US Cremonese",
+      "score": {}
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2026-02-22",
+      "time": "00:00",
+      "team1": "Atalanta BC",
+      "team2": "SSC Napoli",
+      "score": {}
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2026-02-22",
+      "time": "21:00",
+      "team1": "Cagliari Calcio",
+      "team2": "SS Lazio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2026-02-22",
+      "time": "21:00",
+      "team1": "Genoa CFC",
+      "team2": "Torino FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2026-02-22",
+      "time": "18:30",
+      "team1": "Bologna FC 1909",
+      "team2": "Udinese Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2026-02-22",
+      "time": "00:00",
+      "team1": "Juventus FC",
+      "team2": "Como 1907",
+      "score": {}
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2026-02-22",
+      "time": "21:00",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Hellas Verona FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 26",
+      "date": "2026-02-22",
+      "time": "02:45",
+      "team1": "US Lecce",
+      "team2": "FC Internazionale Milano",
+      "score": {}
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2026-03-01",
+      "time": "02:45",
+      "team1": "AS Roma",
+      "team2": "Juventus FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2026-03-01",
+      "time": "21:00",
+      "team1": "Como 1907",
+      "team2": "US Lecce",
+      "score": {}
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2026-03-01",
+      "time": "21:00",
+      "team1": "Torino FC",
+      "team2": "SS Lazio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2026-03-01",
+      "time": "00:00",
+      "team1": "Hellas Verona FC",
+      "team2": "SSC Napoli",
+      "score": {}
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2026-03-01",
+      "time": "21:00",
+      "team1": "FC Internazionale Milano",
+      "team2": "Genoa CFC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2026-03-01",
+      "time": "21:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "Cagliari Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2026-03-01",
+      "time": "18:30",
+      "team1": "AC Pisa 1909",
+      "team2": "Bologna FC 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2026-03-01",
+      "time": "00:00",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Atalanta BC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2026-03-01",
+      "time": "21:00",
+      "team1": "Udinese Calcio",
+      "team2": "ACF Fiorentina",
+      "score": {}
+    },
+    {
+      "round": "Matchday 27",
+      "date": "2026-03-01",
+      "time": "02:45",
+      "team1": "US Cremonese",
+      "team2": "AC Milan",
+      "score": {}
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-08",
+      "time": "21:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Como 1907",
+      "score": {}
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-08",
+      "time": "02:45",
+      "team1": "Genoa CFC",
+      "team2": "AS Roma",
+      "score": {}
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-08",
+      "time": "21:00",
+      "team1": "Bologna FC 1909",
+      "team2": "Hellas Verona FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-08",
+      "time": "18:30",
+      "team1": "Juventus FC",
+      "team2": "AC Pisa 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-08",
+      "time": "21:00",
+      "team1": "SS Lazio",
+      "team2": "US Sassuolo Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-08",
+      "time": "00:00",
+      "team1": "SSC Napoli",
+      "team2": "Torino FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-08",
+      "time": "21:00",
+      "team1": "US Lecce",
+      "team2": "US Cremonese",
+      "score": {}
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-08",
+      "time": "00:00",
+      "team1": "ACF Fiorentina",
+      "team2": "Parma Calcio 1913",
+      "score": {}
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-08",
+      "time": "02:45",
+      "team1": "AC Milan",
+      "team2": "FC Internazionale Milano",
+      "score": {}
+    },
+    {
+      "round": "Matchday 28",
+      "date": "2026-03-08",
+      "time": "21:00",
+      "team1": "Atalanta BC",
+      "team2": "Udinese Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-15",
+      "time": "02:45",
+      "team1": "Como 1907",
+      "team2": "AS Roma",
+      "score": {}
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-15",
+      "time": "21:00",
+      "team1": "Torino FC",
+      "team2": "Parma Calcio 1913",
+      "score": {}
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-15",
+      "time": "21:00",
+      "team1": "Hellas Verona FC",
+      "team2": "Genoa CFC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-15",
+      "time": "00:00",
+      "team1": "FC Internazionale Milano",
+      "team2": "Atalanta BC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-15",
+      "time": "02:45",
+      "team1": "SS Lazio",
+      "team2": "AC Milan",
+      "score": {}
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-15",
+      "time": "18:30",
+      "team1": "AC Pisa 1909",
+      "team2": "Cagliari Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-15",
+      "time": "21:00",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Bologna FC 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-15",
+      "time": "21:00",
+      "team1": "SSC Napoli",
+      "team2": "US Lecce",
+      "score": {}
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-15",
+      "time": "00:00",
+      "team1": "Udinese Calcio",
+      "team2": "Juventus FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 29",
+      "date": "2026-03-15",
+      "time": "21:00",
+      "team1": "US Cremonese",
+      "team2": "ACF Fiorentina",
+      "score": {}
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2026-03-22",
+      "time": "02:45",
+      "team1": "ACF Fiorentina",
+      "team2": "FC Internazionale Milano",
+      "score": {}
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2026-03-22",
+      "time": "00:00",
+      "team1": "AC Milan",
+      "team2": "Torino FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2026-03-22",
+      "time": "21:00",
+      "team1": "AS Roma",
+      "team2": "US Lecce",
+      "score": {}
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2026-03-22",
+      "time": "21:00",
+      "team1": "Atalanta BC",
+      "team2": "Hellas Verona FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2026-03-22",
+      "time": "00:00",
+      "team1": "Cagliari Calcio",
+      "team2": "SSC Napoli",
+      "score": {}
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2026-03-22",
+      "time": "21:00",
+      "team1": "Genoa CFC",
+      "team2": "Udinese Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2026-03-22",
+      "time": "18:30",
+      "team1": "Como 1907",
+      "team2": "AC Pisa 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2026-03-22",
+      "time": "21:00",
+      "team1": "Bologna FC 1909",
+      "team2": "SS Lazio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2026-03-22",
+      "time": "02:45",
+      "team1": "Juventus FC",
+      "team2": "US Sassuolo Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 30",
+      "date": "2026-03-22",
+      "time": "21:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "US Cremonese",
+      "score": {}
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2026-04-04",
+      "time": "20:00",
+      "team1": "Hellas Verona FC",
+      "team2": "ACF Fiorentina",
+      "score": {}
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2026-04-04",
+      "time": "01:45",
+      "team1": "FC Internazionale Milano",
+      "team2": "AS Roma",
+      "score": {}
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2026-04-04",
+      "time": "23:00",
+      "team1": "Juventus FC",
+      "team2": "Genoa CFC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2026-04-04",
+      "time": "20:00",
+      "team1": "SS Lazio",
+      "team2": "Parma Calcio 1913",
+      "score": {}
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2026-04-04",
+      "time": "20:00",
+      "team1": "AC Pisa 1909",
+      "team2": "Torino FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2026-04-04",
+      "time": "20:00",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Cagliari Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2026-04-04",
+      "time": "01:45",
+      "team1": "SSC Napoli",
+      "team2": "AC Milan",
+      "score": {}
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2026-04-04",
+      "time": "23:00",
+      "team1": "Udinese Calcio",
+      "team2": "Como 1907",
+      "score": {}
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2026-04-04",
+      "time": "20:00",
+      "team1": "US Cremonese",
+      "team2": "Bologna FC 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 31",
+      "date": "2026-04-04",
+      "time": "17:30",
+      "team1": "US Lecce",
+      "team2": "Atalanta BC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2026-04-12",
+      "time": "23:00",
+      "team1": "ACF Fiorentina",
+      "team2": "SS Lazio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2026-04-12",
+      "time": "20:00",
+      "team1": "AC Milan",
+      "team2": "Udinese Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2026-04-12",
+      "time": "17:30",
+      "team1": "AS Roma",
+      "team2": "AC Pisa 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2026-04-12",
+      "time": "01:45",
+      "team1": "Atalanta BC",
+      "team2": "Juventus FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2026-04-12",
+      "time": "20:00",
+      "team1": "Cagliari Calcio",
+      "team2": "US Cremonese",
+      "score": {}
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2026-04-12",
+      "time": "20:00",
+      "team1": "Genoa CFC",
+      "team2": "US Sassuolo Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2026-04-12",
+      "time": "01:45",
+      "team1": "Como 1907",
+      "team2": "FC Internazionale Milano",
+      "score": {}
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2026-04-12",
+      "time": "20:00",
+      "team1": "Bologna FC 1909",
+      "team2": "US Lecce",
+      "score": {}
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2026-04-12",
+      "time": "23:00",
+      "team1": "Torino FC",
+      "team2": "Hellas Verona FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 32",
+      "date": "2026-04-12",
+      "time": "20:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "SSC Napoli",
+      "score": {}
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2026-04-19",
+      "time": "01:45",
+      "team1": "AS Roma",
+      "team2": "Atalanta BC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2026-04-19",
+      "time": "01:45",
+      "team1": "Hellas Verona FC",
+      "team2": "AC Milan",
+      "score": {}
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2026-04-19",
+      "time": "20:00",
+      "team1": "FC Internazionale Milano",
+      "team2": "Cagliari Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2026-04-19",
+      "time": "23:00",
+      "team1": "Juventus FC",
+      "team2": "Bologna FC 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2026-04-19",
+      "time": "20:00",
+      "team1": "AC Pisa 1909",
+      "team2": "Genoa CFC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2026-04-19",
+      "time": "17:30",
+      "team1": "US Sassuolo Calcio",
+      "team2": "Como 1907",
+      "score": {}
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2026-04-19",
+      "time": "23:00",
+      "team1": "SSC Napoli",
+      "team2": "SS Lazio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2026-04-19",
+      "time": "20:00",
+      "team1": "Udinese Calcio",
+      "team2": "Parma Calcio 1913",
+      "score": {}
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2026-04-19",
+      "time": "20:00",
+      "team1": "US Cremonese",
+      "team2": "Torino FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 33",
+      "date": "2026-04-19",
+      "time": "20:00",
+      "team1": "US Lecce",
+      "team2": "ACF Fiorentina",
+      "score": {}
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2026-04-26",
+      "time": "20:00",
+      "team1": "ACF Fiorentina",
+      "team2": "US Sassuolo Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2026-04-26",
+      "time": "01:45",
+      "team1": "AC Milan",
+      "team2": "Juventus FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2026-04-26",
+      "time": "20:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Atalanta BC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2026-04-26",
+      "time": "17:30",
+      "team1": "Genoa CFC",
+      "team2": "Como 1907",
+      "score": {}
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2026-04-26",
+      "time": "23:00",
+      "team1": "Bologna FC 1909",
+      "team2": "AS Roma",
+      "score": {}
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2026-04-26",
+      "time": "23:00",
+      "team1": "Torino FC",
+      "team2": "FC Internazionale Milano",
+      "score": {}
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2026-04-26",
+      "time": "20:00",
+      "team1": "Hellas Verona FC",
+      "team2": "US Lecce",
+      "score": {}
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2026-04-26",
+      "time": "20:00",
+      "team1": "SS Lazio",
+      "team2": "Udinese Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2026-04-26",
+      "time": "20:00",
+      "team1": "Parma Calcio 1913",
+      "team2": "AC Pisa 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 34",
+      "date": "2026-04-26",
+      "time": "01:45",
+      "team1": "SSC Napoli",
+      "team2": "US Cremonese",
+      "score": {}
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2026-05-03",
+      "time": "01:45",
+      "team1": "AS Roma",
+      "team2": "ACF Fiorentina",
+      "score": {}
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2026-05-03",
+      "time": "23:00",
+      "team1": "Atalanta BC",
+      "team2": "Genoa CFC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2026-05-03",
+      "time": "20:00",
+      "team1": "Como 1907",
+      "team2": "SSC Napoli",
+      "score": {}
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2026-05-03",
+      "time": "20:00",
+      "team1": "Bologna FC 1909",
+      "team2": "Cagliari Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2026-05-03",
+      "time": "20:00",
+      "team1": "FC Internazionale Milano",
+      "team2": "Parma Calcio 1913",
+      "score": {}
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2026-05-03",
+      "time": "17:30",
+      "team1": "Juventus FC",
+      "team2": "Hellas Verona FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2026-05-03",
+      "time": "20:00",
+      "team1": "AC Pisa 1909",
+      "team2": "US Lecce",
+      "score": {}
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2026-05-03",
+      "time": "01:45",
+      "team1": "US Sassuolo Calcio",
+      "team2": "AC Milan",
+      "score": {}
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2026-05-03",
+      "time": "23:00",
+      "team1": "Udinese Calcio",
+      "team2": "Torino FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 35",
+      "date": "2026-05-03",
+      "time": "20:00",
+      "team1": "US Cremonese",
+      "team2": "SS Lazio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2026-05-10",
+      "time": "20:00",
+      "team1": "ACF Fiorentina",
+      "team2": "Genoa CFC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2026-05-10",
+      "time": "23:00",
+      "team1": "AC Milan",
+      "team2": "Atalanta BC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2026-05-10",
+      "time": "20:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Udinese Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2026-05-10",
+      "time": "20:00",
+      "team1": "Torino FC",
+      "team2": "US Sassuolo Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2026-05-10",
+      "time": "17:30",
+      "team1": "Hellas Verona FC",
+      "team2": "Como 1907",
+      "score": {}
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2026-05-10",
+      "time": "01:45",
+      "team1": "SS Lazio",
+      "team2": "FC Internazionale Milano",
+      "score": {}
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2026-05-10",
+      "time": "01:45",
+      "team1": "Parma Calcio 1913",
+      "team2": "AS Roma",
+      "score": {}
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2026-05-10",
+      "time": "23:00",
+      "team1": "SSC Napoli",
+      "team2": "Bologna FC 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2026-05-10",
+      "time": "20:00",
+      "team1": "US Cremonese",
+      "team2": "AC Pisa 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 36",
+      "date": "2026-05-10",
+      "time": "20:00",
+      "team1": "US Lecce",
+      "team2": "Juventus FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "01:45",
+      "team1": "AS Roma",
+      "team2": "SS Lazio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "20:00",
+      "team1": "Atalanta BC",
+      "team2": "Bologna FC 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "20:00",
+      "team1": "Cagliari Calcio",
+      "team2": "Torino FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "23:00",
+      "team1": "Genoa CFC",
+      "team2": "AC Milan",
+      "score": {}
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "20:00",
+      "team1": "Como 1907",
+      "team2": "Parma Calcio 1913",
+      "score": {}
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "01:45",
+      "team1": "FC Internazionale Milano",
+      "team2": "Hellas Verona FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "23:00",
+      "team1": "Juventus FC",
+      "team2": "ACF Fiorentina",
+      "score": {}
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "20:00",
+      "team1": "AC Pisa 1909",
+      "team2": "SSC Napoli",
+      "score": {}
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "20:00",
+      "team1": "US Sassuolo Calcio",
+      "team2": "US Lecce",
+      "score": {}
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "17:30",
+      "team1": "Udinese Calcio",
+      "team2": "US Cremonese",
+      "score": {}
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2026-05-24",
+      "time": "01:45",
+      "team1": "ACF Fiorentina",
+      "team2": "Atalanta BC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2026-05-24",
+      "time": "01:45",
+      "team1": "AC Milan",
+      "team2": "Cagliari Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2026-05-24",
+      "time": "01:45",
+      "team1": "Bologna FC 1909",
+      "team2": "FC Internazionale Milano",
+      "score": {}
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2026-05-24",
+      "time": "01:45",
+      "team1": "Torino FC",
+      "team2": "Juventus FC",
+      "score": {}
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2026-05-24",
+      "time": "01:45",
+      "team1": "Hellas Verona FC",
+      "team2": "AS Roma",
+      "score": {}
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2026-05-24",
+      "time": "01:45",
+      "team1": "SS Lazio",
+      "team2": "AC Pisa 1909",
+      "score": {}
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2026-05-24",
+      "time": "01:45",
+      "team1": "Parma Calcio 1913",
+      "team2": "US Sassuolo Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2026-05-24",
+      "time": "01:45",
+      "team1": "SSC Napoli",
+      "team2": "Udinese Calcio",
+      "score": {}
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2026-05-24",
+      "time": "01:45",
+      "team1": "US Cremonese",
+      "team2": "Como 1907",
+      "score": {}
+    },
+    {
+      "round": "Matchday 38",
+      "date": "2026-05-24",
+      "time": "01:45",
+      "team1": "US Lecce",
+      "team2": "Genoa CFC",
+      "score": {}
+    }
+  ]
+}
